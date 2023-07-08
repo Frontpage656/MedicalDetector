@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "325102608652",
+    "project_id": "medicaldetector-fb5b7",
+    "storage_bucket": "medicaldetector-fb5b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325102608652:android:3d9d940b02490746e5a929",
+        "android_client_info": {
+          "package_name": "com.example.medicaldetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325102608652-tbb98qtef2rn2u8ngl8m2lusmuqr8eqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWviHAqiJ0G6rZIV5JwcxIKAVNyncUpXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325102608652-tbb98qtef2rn2u8ngl8m2lusmuqr8eqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
